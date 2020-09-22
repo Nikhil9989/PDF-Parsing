@@ -1,0 +1,6 @@
+classes = 1
+train  = /home/vitmas/Documents/Projects/cocobot/final_cocobot/cocobot_train.txt
+valid  = /home/vitmas/Documents/Projects/cocobot/final_cocobot/cocobot_test.txt
+names = /home/vitmas/Documents/Projects/cocobot/final_cocobot/classes.names
+backup = /home/vitmas/Documents/Projects/cocobot/final_cocobot/weights/
+
